@@ -52,6 +52,11 @@ class FavoritesView extends GetView<HomeViewModel> {
                             GestureDetector(
                               onTap: () {
                                 // 즐겨찾기 업데이트
+                                /*
+                                 * 즐겨찾기 해제시 바로 데이터를 갱신하지 않고 즐겨찾기 등록/해제 상태만 변경 표시 하려면
+                                 * 해당 뷰모델에서 즐겨찾기 데이터 리스트를 별도로 만들어서 관리하면 된다.
+                                */
+
                                 controller.updateFavorites(
                                     article.id!, !article.favorites);
                               },
