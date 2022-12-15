@@ -25,7 +25,8 @@ You can learn about using the GetX library and the MVVM pattern.
 ***
 
 This project is covered as a blog article.<br/>
-[Flutter MVVM with GetX](https://blog.arong.info/flutter/2022/12/15/Flutter-Flutter-MVVM-with-GetX.html)
+[Flutter MVVM with GetX](https://blog.arong.info/flutter/2022/12/15/Flutter-Flutter-MVVM-with-GetX.html) or
+[Flutter MVVM with GetX](https://arong.info/List/ContentsView/2352)
 
 ***
 
